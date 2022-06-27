@@ -8,8 +8,8 @@ A passionate Full stack web developer (MERN) | Woo commerce | Shopify | Wix Spec
 
 Skills: MongoDB / REACT / JS /NODE / EXPRESS/ HTML / CSS /BOOTSTRAP/TAILWIND
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently seeking an internship as react developer. 
+- 🌱 I’m currently learning vanilla JavaScript as much as possible
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Amomen)  
