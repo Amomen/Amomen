@@ -1,16 +1,16 @@
-### Hi there 👋
+![I am GitHub Readme Generator's creator](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/290443294_101644935942629_6025569890301669951_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=w13sFXqXAa8AX_NOqZE&tn=C3C22gonc15Y5Nl6&_nc_ht=scontent.fdac144-1.fna&oh=00_AT--qYiqpvgu7alKWTQMmYQGGDBR4cmqv4AKmYL8eekVlQ&oe=62BDA46F)
+
+### Hi there 👋, i am Momen
+#### I am GitHub Readme Generator's creator
 
 
-**Amomen/Amomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full stack web developer (MERN) | Woo commerce | Shopify | Wix Specialist and Drop shipping expert
 
-Here are some ideas to get you started:
+Skills: MongoDB / REACT / JS /NODE / EXPRESS/ HTML / CSS /BOOTSTRAP/TAILWIND
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Amomen)  
 
